@@ -65,8 +65,6 @@ model.export(export_dir=model_dir)
 
 2.socker error 这个是网络不好，训练模型的代码应该有一部分是从服务器拉下来的，所以如果报这个错尝试换网或者使用魔法上网吧
 
-https://github.com/thegrizzlylabs/sardine-android)
-
 ## 功能
 
 本项目主要用于测试模型识别准确性的一个初期demo
