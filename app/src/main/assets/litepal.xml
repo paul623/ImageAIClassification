@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+    <dbname value="ImageAIDatabase"/>
+    <version value="2"/>
+    <list>
+        <mapping class="com.paul623.android.imageaiclassification.KindsBean"/>
+        <mapping class="com.paul623.android.imageaiclassification.ImageBean"/>
+    </list>
+</litepal>
